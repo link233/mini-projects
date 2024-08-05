@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./iconfont.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div id="video-box">
+    <video id="video" src="" autoplay></video>
+    <div class="mask">内容</div>
+    <div class="prev-btn">
+      <span class="iconfont icon-prev"></span>
+    </div>
+    <div class="next-btn">
+      <span class="iconfont icon-next"></span>
+    </div>
+    <div class="controls">
+      <div id="video-play" class="iconfont icon-bofang-1"></div>
+      <div class="progress-box">
+        <div class="time current-time">00:00</div>
+        <div class="progress">
+          <div class="progress-buffered"></div>
+          <div class="progress-ball">
+            <div class="progress-inner"></div>
+          </div>
+        </div>
+        <div class="time duration">00:00</div>
+      </div>
+      <div class="video-fullscreen">
+        <span id="fullscreen" class="iconfont icon-quanping"></span>
+        <span id="exitFullscreen" class="iconfont icon-tuichuquanping" style="display: none;"></span>
+      </div>
+    </div>
+  </div>
+
+  <script src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4481873 */
+  src: url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAATYAAsAAAAAChwAAASJAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACDVAqGUIU0ATYCJAMgCxIABCAFhGcHbxurCFGUL0qG7AtsG/akSAgxNgDQCgDiHMBCgYeqvpGI3Q7cHXqDi4d/90PvS/KhyI5BgqoHUpWExla1asbt+Ck/zf+n1/99kOfB+oBnszPZvHgy+WByfucaQCd0rtwRNRiz3V1PtNZu2yjT1LsLKJEQXrSmjqf/tzTWdm+OqWtoRBr8z7Hkq+dRIN8OQCqLIgLkRA8sIrdZA87DJzox3gM8w4UJfIpAp019gg/HTZkD8c+Ya5AtlNAd2LHxLIkYIu8KJQYbWnGddmURX1CRPoIfAp/618d/TRFJUmXCPse3o364TWHB8RzyT2qXgKMTKmSstkwV7/GGRyFmYFWIzjBfqAPAvlai1ICx/oxTBqtX9Nh/8rqRFZXQqCWiJgi6EXMdbPglMpXML6VS+DVkqo/QUCZQGMjIJ0yUqVFYmCaBVl3RD3QSHcQWQbSnh0JI9PfSt6mc9J5GTT4ePr6MjIUy+ejTl4cH5aL8e3BobmuHJyZ1tlQu6tTNyRH5aPGMDM9vb3ImbDmEUOdGwwkKc2/SHR+XgO/aqmToyW959O3i7CAX+v6Ueqk74oHGhvq6ve9p1n8qLkKws2uqYWYAhbi3bgo6OXs5Dz2fiLfYdkpOctZL7wt38/ejZ+HOz5gQGHihxmwt7QIKunfxtb8RVxfXHDji1pcLFOTunq6f7AVwTlKiDVp5/ai4/vEUOKcaFqJ4Z7LJTgykUFKWBzErLPp2JBUy692RuLiWmMPkrmoZUiQkLHyTg9ayGlLmIWRfoKh+L8cyp1QWtKlNxJEIzp7gRysduis4+82UWQk7M97cnWBNScXXVd6oED0ZGb0Q/dPUvlJyqo5aNT1ijnTzGExQZ4s23cPO6w42q1c5Uu7tNg0+9e41Vu+tal5FliR+JgWuFj93qIW2VG4u9VuYCK573l/6d+Ompk+9ZZ1bm/bhk4+Ty8GmTTrGL/EVe6SLR3+C9nSwlt3eo2uCZ0Kf9ndZfExeYp69VrKWnVVsp2EGHslZTShC+fJcqGi+IMTpZzmN6drg2dCn2gQAAJ7pD2IBvNLTnADgDQhBR4iE+e9GzqN98G5IkMkNfnb6/Q4s6KhYCkno+W9jQgEA4I3/XtPtnoqL8pinDzM142QTXqVsWb5O2hJWmZwl0Notja7yOkU1Z1mEQS/KFA2l9hFaF/MGSWMKstY0omCWodJlG2qtfei0YnR9lyGGEFE6MG8zQOh3CpJePyDrdwdRMM+hMuoj1Pr9g06XEbdbl/kQhhnBnPiRbw2SBF2jkpjrvc4ioq1gFuSdR5gloRs11jV4w+OJRlgRc6yVYhPnFFGmq2jc9TyiKDoymD5GBF4X4Nzoqq+nYc9SJ+gqDGMIjCP8EJ81EIlAp6Fqa+7+ebMQIpsCYykR83SMxXTqHWlUpyEFYrxAS1WyJf0tK4macBzlcRSjUyHjvjpCEQM6xAgfNoYQcHUCOXyGLvXUiqYV1NUvUpce/VaBcG8bKXKUqKKOJtroUF7Jah5qMLIyYi2enGhNDPfpFGvoyDm1jfHcloSAbdpYM6LEkYYcAAAAAA==') format('woff2');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-next:before {
+  content: "\e625";
+}
+
+.icon-prev:before {
+  content: "\e62a";
+}
+
+.icon-zanting:before {
+  content: "\e621";
+}
+
+.icon-bofang:before {
+  content: "\e623";
+}
+
+.icon-bofang-1:before {
+  content: "\e624";
+}
+
+.icon-tuichuquanping:before {
+  content: "\e629";
+}
+
+.icon-quanping:before {
+  content: "\e628";
+}
